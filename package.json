@@ -1,6 +1,6 @@
 {
   "name": "fs-block-store",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A simple block store that writes blocks to disk.",
   "main": "index.js",
   "dependencies": {},
